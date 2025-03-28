@@ -35,14 +35,14 @@ This is a React-based user management application that integrates with the Reqre
    ```bash
    git clone https://github.com/DronKashyap/employwise-user-management.git
 2. Navigate to the project directory:
-
-cd employwise-user-management
+    ```bash
+    cd employwise-user-management
 3. Install dependencies:
-
-npm install
+    ```bash
+    npm install
 Start the development server:
-
-npm run dev
+    ```bash
+    npm run dev
 
 Usage
 Open the application in the browser at http://localhost:5173.
